@@ -2,5 +2,6 @@
     "github.copilot.chat.localIndex.enabled": false,
     "vyuha.runners": {
         "H": ""
-    }
+    },
+    "smilesHelper.databasePath": "SMILES:Show Database Format"
 }
